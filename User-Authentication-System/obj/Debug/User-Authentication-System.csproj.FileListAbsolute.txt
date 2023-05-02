@@ -1,0 +1,12 @@
+C:\Users\kickb\source\repos\User-Authentication-System\bin\Debug\User-Authentication-System.exe.config
+C:\Users\kickb\source\repos\User-Authentication-System\bin\Debug\User-Authentication-System.exe
+C:\Users\kickb\source\repos\User-Authentication-System\bin\Debug\User-Authentication-System.pdb
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User-Authentication-System.csproj.AssemblyReference.cache
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User-Authentication-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User_Authentication_System.Form1.resources
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User_Authentication_System.Properties.Resources.resources
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User-Authentication-System.csproj.GenerateResource.cache
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User-Authentication-System.csproj.CoreCompileInputs.cache
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User-Authentication-System.exe
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User-Authentication-System.pdb
+C:\Users\kickb\source\repos\User-Authentication-System\obj\Debug\User_Authentication_System.registeredform.resources
